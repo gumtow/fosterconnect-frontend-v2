@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Todo Stream</h1>
+        <h1>FosterConnect Frontend</h1>
         <hr />
 
       </header>
